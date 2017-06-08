@@ -1,1 +1,1 @@
-"# Machine-Learning-Stanford" 
+Machine Learning Rocks!
